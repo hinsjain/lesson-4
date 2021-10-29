@@ -20,7 +20,7 @@ body{
 
 .txtArea {
     display: block;
-    min-height: 20vh;
+    min-height: 15vh;
     width: 100%;
     padding: 1rem;
     font-family: 'Source Code Pro', monospace;
@@ -37,7 +37,7 @@ body{
 
 .output {
     border: 1px solid black;
-    min-height: 10vh;
+    max-height: 10vh;
     width: 100%;
     overflow: scroll;
     padding: 1rem;
